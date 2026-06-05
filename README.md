@@ -6,13 +6,11 @@
 
 ---
 
-Data Scientist avec 5 ans d'expérience, je me spécialise dans le déploiement de solutions Data & IA et l'optimisation de la chaîne de valeur des données dans le secteur bancaire.
-
 ### Parcours
 
 **Data Scientist** · CASDEN Banque Populaire *(depuis 2021)*
 
-**Professeur vacataire** · CNAM *(depuis 2024)*
+**Professeur vacataire** · Conservatoire nationale des arts et métiers *(depuis 2024)*
 > Enseignement Python & Excel au Master MÉDAS.
 
 
