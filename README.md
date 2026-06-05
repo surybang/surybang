@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&repeat=true&width=435&height=45&lines=Surybang_;Fabien+HOS_" alt="Typing SVG" />
 </h1>
 
-<p align="center">Data Scientist · Lutte contre la Fraude · LCB-FT</p>
-
 ---
 
 ### Parcours
