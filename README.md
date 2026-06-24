@@ -30,4 +30,4 @@
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/fabien-hos/) · [Site web](https://fabien-hos.streamlit.app/)
+[LinkedIn](https://www.linkedin.com/in/fabien-hos/) · [Site web](https://surybang.github.io/)
