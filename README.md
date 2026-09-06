@@ -9,7 +9,7 @@
 **Data Scientist** · CASDEN Banque Populaire *(depuis 2021)*
 
 **Professeur vacataire** · Conservatoire nationale des arts et métiers *(depuis 2024)*
-> Enseignement Python & Excel au Master MÉDAS.
+> Enseignement Python & Git aux Master MÉDAS et GPLA.
 
 
 ### Stack
